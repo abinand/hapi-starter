@@ -1,0 +1,16 @@
+{
+  "name": "ripple_issues_ms",
+  "version": "1.0.0",
+  "description": "Microservice that creates a new ripple, list all the ripples based on location and user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abinand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "hapi": "^16.1.1"
+  }
+}
